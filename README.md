@@ -6,9 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prashantbiz)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:prashantbizofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge)](https://www.linkedin.com/in/prashantbiz)
+[![Website](https://img.shields.io/badge/Website-Portfolio-00C7B7?style=for-the-badge&logo=google-chrome)](https://www.linkedin.com/in/prashantbiz)
 
-<img src="https://komarev.com/ghpvc/?username=prashant-biz&color=0e75b6&style=flat-square" alt="Profile views" />
+![](https://komarev.com/ghpvc/?username=prashant-biz&color=0e75b6&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -21,14 +21,16 @@
 
 ## 🎯 Core Expertise
 
-```plaintext
-┌─ WORKFLOW GOVERNANCE ────────────────────────────────────────┐
-│                                                              │
-│  • Deterministic Decision Paths      • Audit-Ready Design   │
-│  • AI Accountability Architecture    • Regulatory Mapping   │
-│  • Risk Control Boundaries           • Failure Mode Design  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                   WORKFLOW GOVERNANCE                         ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  ✓ Deterministic Decision Paths    ✓ Audit-Ready Design      ║
+║  ✓ AI Accountability Architecture  ✓ Regulatory Mapping      ║
+║  ✓ Risk Control Boundaries         ✓ Failure Mode Design     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 **Specialization:**  
@@ -43,7 +45,7 @@ Most AI implementations fail governance review not from technical weakness, but 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### For Finance Teams
 - ✅ Audit-ready AP automation
@@ -52,7 +54,7 @@ Most AI implementations fail governance review not from technical weakness, but 
 - ✅ SLA-mapped workflow decomposition
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### For Risk & Compliance
 - ✅ Traceable AI decision paths
@@ -63,7 +65,7 @@ Most AI implementations fail governance review not from technical weakness, but 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### For Product Leaders
 - ✅ AI features that pass board scrutiny
@@ -72,7 +74,7 @@ Most AI implementations fail governance review not from technical weakness, but 
 - ✅ Cognitive relief messaging
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### For Operations
 - ✅ Voice-driven field documentation
@@ -89,8 +91,9 @@ Most AI implementations fail governance review not from technical weakness, but 
 ## 📂 Featured Work
 
 ### 🏛️ [Workflow Governance — Review-Ready Execution](https://github.com/prashant-biz/workflow-governance-review-ready)
-> **Finance & Risk teams evaluating AI-driven invoice automation**
+> **For:** Finance & Risk teams evaluating AI-driven invoice automation
 
+**What's Inside:**
 - Deterministic workflow decomposition
 - SLA ownership mapping
 - Decision boundaries specification
@@ -101,8 +104,9 @@ Most AI implementations fail governance review not from technical weakness, but 
 ---
 
 ### ⚖️ [Decision Boundary Specification](https://github.com/prashant-biz/workflow-governance-decision-boundary)
-> **Product & Risk leads designing AI oversight**
+> **For:** Product & Risk leads designing AI oversight
 
+**What's Inside:**
 - Explicit control boundaries between AI advisory and deterministic execution
 - Failure path routing
 - AI limitation documentation
@@ -112,8 +116,9 @@ Most AI implementations fail governance review not from technical weakness, but 
 ---
 
 ### 🎤 [Voice AI for Field Operations](https://github.com/prashant-biz/voice-ai-field-operations)
-> **Operations teams documenting work in high-friction environments**
+> **For:** Operations teams documenting work in high-friction environments
 
+**What's Inside:**
 - Voice-to-structured-data transformation
 - Real-time validation patterns
 - Voice-first UX design
@@ -123,8 +128,9 @@ Most AI implementations fail governance review not from technical weakness, but 
 ---
 
 ### 🤖 [Agentic Automation Architecture](https://github.com/prashant-biz/agentic-automation-architecture)
-> **Technical leads replacing brittle trigger-action systems**
+> **For:** Technical leads replacing brittle trigger-action systems
 
+**What's Inside:**
 - Task decomposition strategies
 - Context retrieval patterns
 - Self-validation loops
@@ -135,8 +141,9 @@ Most AI implementations fail governance review not from technical weakness, but 
 ---
 
 ### 💬 [SaaS Messaging — Outcome-Led Positioning](https://github.com/prashant-biz/saas-messaging-outcome-led)
-> **Product founders selling productivity tools**
+> **For:** Product founders selling productivity tools
 
+**What's Inside:**
 - Outcome-first messaging framework
 - Cognitive relief positioning
 - Buyer objection handling
@@ -145,10 +152,56 @@ Most AI implementations fail governance review not from technical weakness, but 
 
 ---
 
+## 🎓 Core Architecture Principle
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                     THREE-LAYER GOVERNANCE                      │
+└─────────────────────────────────────────────────────────────────┘
+
+    ┌─────────────────┐
+    │  AI ADVISORY    │  ← Classification, Read-only, Probabilistic
+    │     LAYER       │
+    └────────┬────────┘
+             │ Classification
+             ↓
+    ┌─────────────────┐
+    │    DECISION     │  ← Where AI advises, Controls decide
+    │    BOUNDARY     │
+    └────────┬────────┘
+             │ Deterministic Controls
+             ↓
+    ┌─────────────────┐
+    │   EXECUTION     │  ← Rule-based, Auditable, Traceable
+    │     LAYER       │
+    └────────┬────────┘
+             │ Audit Trail
+             ↓
+    ┌─────────────────┐
+    │  REVIEW SYSTEM  │  ← Human oversight, Exception handling
+    └────────┬────────┘
+             │
+             └──────────────────→ (Feedback Loop) ───┐
+                                                      │
+             ┌────────────────────────────────────────┘
+             ↓
+    ┌─────────────────┐
+    │  AI ADVISORY    │
+    │     LAYER       │
+    └─────────────────┘
+```
+
+**Key Principles:**
+1. **AI Classifies** → Advisory only, never deterministic
+2. **Controls Decide** → Explicit rules at decision boundaries
+3. **Humans Review** → Exception handling, continuous improvement
+
+---
+
 ## 🔬 Design Philosophy
 
 <details>
-<summary><b>On AI and Governance</b></summary>
+<summary><b>📐 On AI and Governance</b></summary>
 <br>
 
 - Governance is **architecture**, not a compliance checkbox
@@ -159,7 +212,7 @@ Most AI implementations fail governance review not from technical weakness, but 
 </details>
 
 <details>
-<summary><b>On Workflow Design</b></summary>
+<summary><b>⚙️ On Workflow Design</b></summary>
 <br>
 
 - The person **doing the work** is rarely the person **documenting it**
@@ -170,7 +223,7 @@ Most AI implementations fail governance review not from technical weakness, but 
 </details>
 
 <details>
-<summary><b>On Documentation & Specifications</b></summary>
+<summary><b>📝 On Documentation & Specifications</b></summary>
 <br>
 
 - Spec work that isn't **implementable** is just text
@@ -179,28 +232,6 @@ Most AI implementations fail governance review not from technical weakness, but 
 - **Show the decision, not just the outcome**
 
 </details>
-
----
-
-## 🎓 Core Principles
-
-```mermaid
-graph LR
-    A[AI Advisory Layer] -->|Classification| B[Decision Boundary]
-    B -->|Deterministic Controls| C[Execution Layer]
-    C -->|Audit Trail| D[Review System]
-    D -->|Feedback| A
-    
-    style A fill:#e1f5ff
-    style B fill:#fff3e0
-    style C fill:#f3e5f5
-    style D fill:#e8f5e9
-```
-
-**Three-Layer Architecture:**
-1. **AI Classifies** → Read-only, advisory, probabilistic
-2. **Controls Decide** → Deterministic, rule-based, auditable
-3. **Humans Review** → Exception handling, policy override, continuous learning
 
 ---
 
@@ -223,20 +254,6 @@ graph LR
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-biz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-biz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prashant-biz&theme=radical&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=FF6F00&currStreakLabel=00C7B7)
-
-</div>
-
----
-
 ## 🎯 Current Focus (2026)
 
 ```yaml
@@ -251,14 +268,20 @@ research_areas:
   - Governance architecture for LLM-driven processes
   - Multi-agent orchestration patterns
   - Real-time validation systems
+
+work_approach:
+  - Deep specialization over broad generalization
+  - Clarity before speed
+  - Systems designed to survive pressure
+  - Credibility through execution quality
 ```
 
 ---
 
 ## 🤝 Who I Work With
 
-| Role | Challenge | Solution |
-|------|-----------|----------|
+| Stakeholder | Challenge | Solution Delivered |
+|-------------|-----------|-------------------|
 | **Risk & Compliance Officers** | "Can you prove this AI decision was correct?" | Traceable decision paths with audit artifacts |
 | **Finance Directors** | "How do we automate AP without losing control?" | Deterministic workflows with explicit SLA ownership |
 | **Product Leaders** | "Will this AI feature pass board review?" | Review-ready specifications with failure mode design |
@@ -267,12 +290,46 @@ research_areas:
 
 ---
 
+## 📊 Repository Overview
+
+```
+Total Repositories: 6
+Focus Areas:        Workflow Governance • AI Systems • Voice Automation
+Design Approach:    Review-Ready • Audit-Safe • Pressure-Tested
+Documentation:      Specification-First • Implementation Notes • Audit Patterns
+```
+
+**Repository Structure:**
+- Each repo demonstrates a governance principle through specification
+- Implementation notes show real-world application
+- Audit patterns included for compliance review
+- Trade-offs documented explicitly
+
+---
+
+## 💡 Why This Matters
+
+**The Gap I Fill:**  
+Most AI vendors promise intelligence. I deliver accountability.
+
+**The Difference:**  
+When your CFO asks "What happens if this AI makes a mistake?" — you have an answer.
+
+**The Result:**  
+AI systems that:
+- Pass governance review on first submission
+- Survive regulatory audit
+- Scale without losing traceability
+- Degrade gracefully under pressure
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
 
-### Building AI systems that need to pass board review?  
-### Designing workflows that survive real-world pressure?  
+### Building AI systems that need to pass board review?
+### Designing workflows that survive real-world pressure?
 ### Automating processes where "I can't trace this" isn't acceptable?
 
 **Let's talk.**
@@ -285,6 +342,12 @@ research_areas:
 **📍 Based in Greater Delhi Area, India**  
 **🏢 Workflow Clarity Studio**  
 **🧠 Specialization: Making AI decisions defensible**
+
+---
+
+*"Governance is architecture. If you can't trace the decision, you can't defend it."*
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
